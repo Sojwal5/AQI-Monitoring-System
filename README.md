@@ -34,7 +34,7 @@ Calibrating the sensor in fresh air is crucial, followed by deriving an equation
 - [MQ7 Datasheet](https://www.pololu.com/file/0J313/MQ7.pdf)
 - [SDS011 Datasheet](https://cdn-reichelt.de/documents/datenblatt/X200/SDS011-DATASHEET.pdf)
 
-##Results
+## Results
 Successful deployment of AQI Monitoring System in the target area.
 Real-time monitoring of key air pollutants and calculation of accurate AQI values.
 User-friendly interface accessible to both decision-makers and the general public.
