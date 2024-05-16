@@ -1,7 +1,11 @@
 # AQI-Monitoring-System
-# Air Pollution Monitoring System
 
 ## Introduction
+The AQI (Air Quality Index) Monitoring System is a comprehensive project aimed at providing real
+time monitoring and analysis of air quality in a given region. Air pollution is a significant
+ environmental and public health concern globally, affecting millions of people. This project seeks to
+ address this issue by developing a system that measures various air pollutants and calculates the
+ AQI, providing valuable information for decision-makers and the general public.
 This project presents an IoT-based Air Pollution Monitoring System that measures indoor harmful gases such as Carbon Dioxide (CO2) using an MQ135 gas sensor and Carbon Monoxide (CO) using an MQ7 sensor. The system displays air quality in Parts Per Million (PPM) on both a 16x2 LCD and on ThingSpeak, facilitating easy monitoring.
 
 ## Components Required
