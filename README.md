@@ -28,7 +28,8 @@ This project presents an IoT-based Air Pollution Monitoring System that measures
 
 ## Measurement
 Calibrating the sensor in fresh air is crucial, followed by deriving an equation converting sensor output voltage value into convenient units, PPM (Parts Per Million). The mathematical calculations involve finding the slope and applying logarithmic functions for accurate conversion.
-
+## Block Diagram
+![Block Diagram](assets/Photos/Block_diagram.jpg)
 ## Datasheets
 - [MQ135 Datasheet](https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/resources/SNS-MQ135.pdf)
 - [MQ7 Datasheet](https://www.pololu.com/file/0J313/MQ7.pdf)
