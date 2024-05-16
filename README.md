@@ -9,20 +9,20 @@ time monitoring and analysis of air quality in a given region. Air pollution is 
 This project presents an IoT-based Air Pollution Monitoring System that measures indoor harmful gases such as Carbon Dioxide (CO2) using an MQ135 gas sensor and Carbon Monoxide (CO) using an MQ7 sensor. The system displays air quality in Parts Per Million (PPM) on both a 16x2 LCD and on ThingSpeak, facilitating easy monitoring.
 
 ## Components Required
- -Raspberry Pi (4B)
- -Nova PM Sensor SDS011
- -MQ 7 – CO gas detection sensor
- -MCP 3008 - 10-bit Analog-to-Digital Converter (ADC) for MQ 7
- -MQ 135 – NH3 gas detection sensor 
- -HDMI cable
- -Male to Male , Male to female , female to female jumper wires
- -Breadboard
- -zero PCB
+ - Raspberry Pi (4B)
+ - Nova PM Sensor SDS011
+ - MQ 7 – CO gas detection sensor
+ - MCP 3008 - 10-bit Analog-to-Digital Converter (ADC) for MQ 7
+ - MQ 135 – NH3 gas detection sensor 
+ - HDMI cable
+ - Male to Male , Male to female , female to female jumper wires
+ - Breadboard
+ - zero PCB
 
 
 ## Software Requirement
--IDE : Thonny, Geany
--Hosting Website : AdaFruit.
+- IDE : Thonny, Geany
+- Hosting Website : AdaFruit.
 
 ## Measurement
 Calibrating the sensor in fresh air is crucial, followed by deriving an equation converting sensor output voltage value into convenient units, PPM (Parts Per Million). The mathematical calculations involve finding the slope and applying logarithmic functions for accurate conversion.
