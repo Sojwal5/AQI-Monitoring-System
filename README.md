@@ -19,8 +19,6 @@ This project presents an IoT-based Air Pollution Monitoring System that measures
  -Breadboard
  -zero PCB
 
-## System Architecture
-[architecture diagram here]
 
 ## Software Requirement
 -IDE : Thonny, Geany
@@ -34,7 +32,10 @@ Calibrating the sensor in fresh air is crucial, followed by deriving an equation
 - [MQ135 Datasheet](https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/resources/SNS-MQ135.pdf)
 - [MQ7 Datasheet](https://www.pololu.com/file/0J313/MQ7.pdf)
 - [SDS011 Datasheet](https://cdn-reichelt.de/documents/datenblatt/X200/SDS011-DATASHEET.pdf)
-
+## Dashboard
+![Dash](assets/Photos/Dashboard/aqi.jpg)
+![Dash](assets/Photos/Dashboard/pm10,pm2.5.jpg)
+![Dash](assets/Photos/Dashboard/NH3andCO.jpg)
 ## Results
 Successful deployment of AQI Monitoring System in the target area.
 Real-time monitoring of key air pollutants and calculation of accurate AQI values.
