@@ -12,7 +12,7 @@ This project presents an IoT-based Air Pollution Monitoring System that measures
  - Raspberry Pi (4B)
  - Nova PM Sensor SDS011
  - MQ 7 – CO gas detection sensor
- - MCP 3008 - 10-bit Analog-to-Digital Converter (ADC) for MQ 7
+ - IC MCP 3008 - 10-bit Analog-to-Digital Converter (ADC) for MQ 7
  - MQ 135 – NH3 gas detection sensor 
  - HDMI cable
  - Male to Male , Male to female , female to female jumper wires
