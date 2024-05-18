@@ -32,6 +32,10 @@ Calibrating the sensor in fresh air is crucial, followed by deriving an equation
 - [MQ135 Datasheet](https://www.olimex.com/Products/Components/Sensors/Gas/SNS-MQ135/resources/SNS-MQ135.pdf)
 - [MQ7 Datasheet](https://www.pololu.com/file/0J313/MQ7.pdf)
 - [SDS011 Datasheet](https://cdn-reichelt.de/documents/datenblatt/X200/SDS011-DATASHEET.pdf)
+
+## Project
+![project](assets/Photos/Prototype.jpg)
+
 ## Dashboard
 ![Dash](assets/Photos/Dashboard/aqi.jpg)
 ![Dash](assets/Photos/Dashboard/pm10,pm2.5.jpg)
